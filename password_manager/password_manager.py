@@ -1,6 +1,6 @@
 master_pwd = input("What is the master password? ")
 
-def view():
+def view(): #this is how to declare a function, this is a block of code who's proccesses will run when called upon. The name of the function follows "def" or define 
     pass
 
 def add():
